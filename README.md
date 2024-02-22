@@ -11,18 +11,17 @@ Je suis une étudiante passionnée par l'analyse de données et la science des d
 ## Compétences
 
 - 🖥️ Langages de programmation : Python, SQL
-- 📊 Outils d'analyse de données : Pandas, NumPy, scikit-learn,
+- 📊 Outils d'analyse de données : Pandas, NumPy, scikit-learn
 - 📈 Outils de visualisation de données : Power BI, Matplotlib, Seaborn, Tableau
 - 🛢️ Bases de données : MySQL
 
 
-### Projet 1 : Analyse des ventes de produits
-Description : Analyse des ventes de produits d'une entreprise pour identifier les tendances saisonnières, les produits les plus vendus et les prévisions de ventes futures.
-Technologies utilisées : Python (Pandas, Matplotlib), SQL
+### Projet 1 : Création d'une base de données d'annonces immobilières des Alpes-Maritimes 
+Scraping automatisé des portails web de plusieurs agences du département à l'aide de Beautiful Soup, stockage centralisé des données récupérées dans une base SQLite.
 
-### Projet 2 : Détection de fraude dans les transactions financières
-Description : Développement d'un modèle de machine learning pour détecter les transactions frauduleuses dans un ensemble de données de transactions financières.
-Technologies utilisées : Python (scikit-learn), SQL
+### Projet 2 : Tableau de bord décisionnel pour une agence immobilière 
+Développement sous Tableau d'un dashboard présentant les indicateurs clés de l'activité comme les ventes par trimestre/région, les biens les plus vendus etc. à partir des données de transactions.
+
 
 ## Contact
 
