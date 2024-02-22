@@ -27,6 +27,6 @@ Technologies utilisées : Python (scikit-learn), SQL
 ## Contact
 
 - 📧 Adresse e-mail : lauryntavares@hotmail.com
-- 🔗 LinkedIn : [lien vers votre profil LinkedIn](www.linkedin.com/in/lauryntavares)
+- 🔗 LinkedIn : [www.linkedin.com/in/lauryntavares](www.linkedin.com/in/lauryntavares)
 
 N'hésitez pas à me contacter ! :green_heart:
