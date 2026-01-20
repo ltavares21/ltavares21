@@ -6,7 +6,7 @@
 
 ## À propos de moi
 
-Je suis une étudiante passionnée par l'analyse de données et la science des données. J'aime explorer des ensembles de données pour en extraire des insights significatifs.Je suis actuellement à la recherche d'un stage de 5 à 6 mois dans l'analyse de données.
+Je suis une étudiante passionnée par l'analyse de données et la science des données. J'aime explorer des ensembles de données pour en extraire des insights significatifs.
 
 ## Compétences
 
